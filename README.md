@@ -176,10 +176,10 @@ Customer-Shopping-Behavior-Analysis
 │   └── data_cleaning_analysis.py
 │
 ├── sql
-│   └── business_queries.sql
+│   └── customer_behaviour.sql
 │
 ├── powerbi
-│   └── dashboard.pbix
+│   └── customer_behaviour_analysis_fin.pbix
 │
 └── README.md
 ```
