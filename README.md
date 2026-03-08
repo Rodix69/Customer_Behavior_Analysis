@@ -140,11 +140,11 @@ An interactive **Power BI dashboard** was built to visualize insights from the d
 
 Add your dashboard screenshot here:
 
-```
+
 <p align="center">
   <img src="dashboard.png" width="900">
 </p>
-```
+
 
 ---
 
