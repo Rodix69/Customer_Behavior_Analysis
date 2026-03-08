@@ -170,10 +170,10 @@ Add your dashboard screenshot here:
 Customer-Shopping-Behavior-Analysis
 │
 ├── data
-│   └── shopping_data.csv
+│   └── customer_shopping _behaviour_.csv
 │
 ├── python
-│   └── data_cleaning_analysis.py
+│   └── Customer_Shopping _Behaviour_Analysis.py
 │
 ├── sql
 │   └── customer_behaviour.sql
